@@ -17,9 +17,7 @@ buttons:
 
 the signature projects the company is best known for.
 
-> card with information about the signature projects, and a button within the card but below the info **{request a bid}** to request a bid on the project or any project in relation
-
-along side other projects that they may work on
+> card with information about the signature projects, and a button within the card but below the info **{request a bid}** to request a bid on the project or any project in relation along side other projects that they may work on
 
 adding a small segment showcasing public projects that have been accepted and those that are underway in current development and by how far
 
